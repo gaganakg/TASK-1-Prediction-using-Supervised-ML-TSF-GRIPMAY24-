@@ -2,7 +2,7 @@
 
 ## Predicting Student Scores based on Study Hours
 
-This repository contains the code for a simple linear regression model developed as part of my internship with The Sparks Foundation (#GRIPMAY24). The objective of this project is to predict students' scores based on the number of study hours, using Python's Scikit-Learn library for machine learning.
+This repository contains the code for a simple linear regression model developed as part of my internship(Data Science & Business Analytics) with The Sparks Foundation (#GRIPMAY24). The objective of this project is to predict students' scores based on the number of study hours, using Python's Scikit-Learn library for machine learning.
 
 ### Overview:
 - **Data Source**: The dataset used in this project contains information on the number of study hours and the corresponding scores of students.
